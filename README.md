@@ -1,4 +1,4 @@
-# Digital Twin of an African Slum or Community
+# Secured AI Autonomous Infrastructure: Digital Twin of an African Slum or Community
 
 ## Project Overview
 
