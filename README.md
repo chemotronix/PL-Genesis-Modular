@@ -1,8 +1,8 @@
-# Secured AI Autonomous Infrastructure: Digital Twin of an African Slum or Community
+# Secured AI Autonomous Infrastructure: Roadmap for Building Smart Cities
 
 ## Project Overview
 
-This project aims to create a digital replica of an African slum or informal settlement to facilitate inclusive planning and decision-making.  The digital twin integrates various data sources, including satellite imagery, GIS data, and potentially smart payment data, and utilizes AI/ML models to extract valuable insights. The project provides policymakers, NGOs, and other stakeholders with a platform to simulate interventions and assess their potential impact on the community.
+This project aims to create a digital replica of an African community to facilitate inclusive planning and decision-making of smart cities.  The digital twin integrates various data sources, including satellite imagery, GIS data, and potentially smart payment data, and utilizes AI/ML models to extract valuable insights. The project provides policymakers, NGOs, and other stakeholders with a platform to simulate interventions and assess their potential impact on the community as we build future cities.
 
 ## Problem Statement
 
@@ -10,7 +10,7 @@ Lack of comprehensive data about informal settlements limits effective and inclu
 
 ## Solution
 
-This project prototypes a digital twin (a digital replica) of a slum or informal community, focusing on:
+This project prototypes a digital twin (a digital replica) of a community, focusing on:
 
 *   **Data Integration:** Combining satellite imagery, GIS data (if available), and potentially smart payment data.
 *   **3D Representation:** (Future Enhancement) Building a 3D model of the slum, including informal structures, utilities, and environmental features.  Currently focuses on GIS layers.
