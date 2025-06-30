@@ -26,3 +26,4 @@ This project prototypes a digital twin (a digital replica) of a community, focus
 *   **OpenCV (cv2):** For image processing.
 *   **QGIS:**  For data digitization and visualization (optional).
 *   **Unity3D or CesiumJS:**  Visualization platform (choose one).  *Currently this project focuses on the data processing and AI/ML backend, the visualization component is for future work.*
+https://hbr.org/2025/02/how-bmw-started-auditing-emissions-across-its-supply-chain?ab=HP-hero-latest-1 
