@@ -6,7 +6,7 @@ This project aims to create a digital replica of communities to facilitate inclu
 
 ## Problem Statement
 
-Lack of comprehensive data about informal settlements limits effective and inclusive urban planning. This project addresses this issue by creating a data-rich digital representation of a slum.
+Lack of comprehensive data about informal settlements limits effective and inclusive urban planning. This project addresses this issue by creating a data-rich digital representation of communities.
 
 ## Solution
 
@@ -20,10 +20,12 @@ This project prototypes a digital twin (a digital replica) of a community, focus
 ## Technology Stack
 
 *   **Python:**  Primary programming language for data processing, AI/ML, and simulation.
+*   **Filecoin** Decentralized storage
 *   **GeoPandas:**  For geospatial data manipulation and analysis.
 *   **Scikit-learn:** For machine learning models.
 *   **TensorFlow/Keras:** For deep learning (object detection).
 *   **OpenCV (cv2):** For image processing.
-*   **QGIS:**  For data digitization and visualization (optional).
-*   **Unity3D or CesiumJS:**  Visualization platform (choose one).  *Currently this project focuses on the data processing and AI/ML backend, the visualization component is for future work.*
+*   **QGIS:**  For data digitization and visualization .
+*   **Unity3D or CesiumJS:**  Visualization platform .
+*   Currently this project focuses on the data processing and AI/ML backend, the visualization component is for future work.*
 https://aws.amazon.com/government-education/city-transformation/
